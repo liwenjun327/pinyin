@@ -1,5 +1,5 @@
 
-# pinyin for Han （汉 字）
+# pinyin for Han （汉字1）
 
 ---
 
